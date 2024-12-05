@@ -7,8 +7,9 @@ description: "Some short description of your blog can go here." # This will show
 email: "hodaatya189@gmail.com"
 #twitter_username: "twitteruser"
 github_username: "hodaatya"
-linkedin: https://www.linkedin.com/in/hoda-atya/
-#linkedin_username: "Hoda Atya"(https://www.linkedin.com/in/hoda-atya/)
+linkedin_username: "Hoda Atya"
+social_links:
+  linkedin: https://www.linkedin.com/in/hoda-atya/
 #facebook_username: username
 #flickr_username: username
 #instagram_username: username
